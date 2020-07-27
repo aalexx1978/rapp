@@ -322,4 +322,5 @@ modules.xml
 # Sonarlint plugin
 .idea/sonarlint
 
-# End of https://www.toptal.com/developers/gitignore/api/webstorm+all,node,react,openframeworks+visualstudio
+package-lock.json
+yarn.lock
