@@ -1,0 +1,11 @@
+export const FETCH_DATA = "FETCH_DATA";
+export const RECEIVE_DATA = "RECEIVE_DATA";
+export const IS_ERROR = "IS_ERROR";
+export const IS_LOADING = "IS_LOADING";
+export const SEARCH = "SEARCH";
+export const PAGE = "PAGE";
+export const PAGES = "PAGES";
+export const ITEMS = "ITEMS";
+export const GET_INFO = "GET_INFO";
+export const FETCH_INFO = "FETCH_INFO";
+export const SHOW_MODAL ="SHOW_MODAL";
